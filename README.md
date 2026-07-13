@@ -18,7 +18,7 @@ Hi there! I'm Waqar Hassan, a Full Stack Developer passionate about building fas
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=waqar629&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=waqar629&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://streak-stats.demolab.com/?user=waqar629&theme=dark&hide_border=false)<br/>
 
